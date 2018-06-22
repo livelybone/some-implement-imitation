@@ -1,0 +1,19 @@
+{
+  "name": "some-implement-imitation",
+  "version": "1.0.0",
+  "description": "Some implement imitation, just built for my interest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livelybone/some-implement-imitation.git"
+  },
+  "author": "livelybone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livelybone/some-implement-imitation/issues"
+  },
+  "homepage": "https://github.com/livelybone/some-implement-imitation#readme"
+}
