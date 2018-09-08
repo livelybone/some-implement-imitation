@@ -1,5 +1,4 @@
-# some-impletement-imitation
-Some impletement imitation, just for my interest
+# Npm module dev
 
 ## Version define
 see: https://semver.org/lang/zh-CN/?spm=a2c4e.11153940.blogcont592213.15.1f067eedo6OI6g
