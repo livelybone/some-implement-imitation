@@ -7,12 +7,17 @@ see: https://semver.org/lang/zh-CN/?spm=a2c4e.11153940.blogcont592213.15.1f067ee
 ## Dev Tool
 ### Rollup/Webpack
 Preferred to use rollup, see: https://github.com/rollup/rollup
+https://www.rollupjs.com/guide/zh
 ```bash
 npm i -g rollup
 ```
+use pkg.module
+
+> `es` output use external and `umd` output do not use
 
 ### Unpkg
 CDN
+use pkg.unpkg
 
 
 ## Compatibility
